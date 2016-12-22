@@ -2,4 +2,3 @@
 *.txt
 !test2.txt
 *.txt~
-*.gitignore~
